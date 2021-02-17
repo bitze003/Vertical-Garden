@@ -1,1 +1,1 @@
-# VirticalGarden
+# Vertical Garden
